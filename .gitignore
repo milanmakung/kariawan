@@ -1,0 +1,10 @@
+
+# File hasil kompilasi Java
+/build/
+/dist/
+
+# File sementara NetBeans
+/nbproject/private/
+
+# File sementara editor
+*.class
